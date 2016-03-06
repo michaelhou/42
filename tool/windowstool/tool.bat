@@ -11,6 +11,7 @@
 @set PATH=%here%\fasmw;%PATH%
 
 @set PATH=%here%\mingw64\bin;%PATH%
+@set PATH=C:\Program Files\mingw-w64\x86_64-5.3.0-posix-seh-rt_v4-rev0\mingw64\bin;%PATH%
 @set PATH=%here%\cross\bin;%PATH%
 @set PATH=%here%\arm-linux-androideabi-4.9\bin;%PATH%
 
